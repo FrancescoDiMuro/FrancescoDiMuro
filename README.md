@@ -1,8 +1,12 @@
-- 👋 Hi, I’m @FrancescoDiMuro, and I currently work as software developer (mainly SCADA) for a company.
-- 👀 I’m interested in learning programming skills, especially in managing data and RDBMS, other than make little scripts to simplify everyday tasks.
-- 🌱 I’m currently learning Python.
-- 💞️ I’m looking to collaborate on Python projects in data science (with Numpy & | Pandas), in order to make some experience.
-- 📫 How to reach me: text me on here 😊
+# Who I am
+I'm Francesco, 27 yo, programmer, motorcycles lover and drummer.
+
+# What do I do for living
+Senior SCADA Programmer, Python and REST APIs lover.
+
+# My social media
+
+[LinkedIn](https://)https://www.linkedin.com/in/francesco-di-muro/ | [Website](https://www.francescodimuro.com)
 
 <!---
 FrancescoDiMuro/FrancescoDiMuro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
