@@ -1,11 +1,10 @@
 ## Who am I
-I'm Francesco, 27 yo, programmer, motorcycles lover and drummer.
+I'm Francesco, 28 yo, programmer, motorcycles lover and drummer.
 
 ## What do I do for living
-Senior SCADA Programmer, Python and REST APIs developer.
+Back-end Developer, Senior SCADA Programmer, Python and REST APIs developer.
 
 ## My social medias
-
 [LinkedIn](https://www.linkedin.com/in/francesco-di-muro/) | [Portfolio](https://www.francescodimuro.com)
 
 <!---
