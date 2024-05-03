@@ -1,5 +1,4 @@
 ## Who am I 🙋
-Hi! 👋<br>
 I'm Francesco Di Muro, I'm 28 years old and I'm a software developer, motorcycles lover and drummer.
 
 ## What do I do for living 💻
