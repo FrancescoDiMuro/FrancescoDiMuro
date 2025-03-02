@@ -3,9 +3,49 @@ I'm Francesco Di Muro, I'm 29 years old and I'm a software developer, motorcycle
 
 ## What do I do for living 💻
 I currently work as a Back-end Developer using PHP and Laravel @ [BadgeBox S.r.l.](https://www.badgebox.com/en/index.html).<br>
-In my spare time, I like to develop applications with Python like [REST APIs](https://github.com/FrancescoDiMuro/iiot-rest-apis), [chatbots]([https://github.com/latina-in-tech/lit-bot](https://github.com/FrancescoDiMuro/sample-assistant-bot)) and [teach](https://github.com/FrancescoDiMuro/teaching_material) to others the amazing world of programming.
+In my spare time, I like to study and develop applications with Python like [REST APIs](https://github.com/FrancescoDiMuro/iiot-rest-apis), [chatbots](https://github.com/FrancescoDiMuro/sample-assistant-bot) and [teach](https://github.com/FrancescoDiMuro/teaching_material) to others the amazing world of programming.
 
-## My social medias ✉️
+## Languages and Tools
+<p align="left">
+  <a style="text-decoration: none;" href="https://www.php.net" target="_blank" rel="noreferrer" >
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
+  </a>
+  <a href="https://laravel.com/" target="_blank" rel="noreferrer" style="text-decoration: none;">
+    <img src="https://github.com/laravel/art/blob/master/laravel-logo.svg" alt="laravel" width="40" height="40"/>
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a>
+  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
+  </a>
+  <a href="https://redis.io" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  </a>
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+  </a>
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
+    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
+  </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+  </a>
+  <a href="https://postman.com" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+  </a>  
+</p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=francescodimuro&show_icons=true&locale=en&layout=compact" alt="francescodimuro" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=francescodimuro&show_icons=true&locale=en" alt="francescodimuro" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=francescodimuro&" alt="francescodimuro" /></p>
+
+## My social media ✉️
 [LinkedIn](https://www.linkedin.com/in/francesco-di-muro/) | [Datapizza](https://jobs.datapizza.tech/folio/francescodi_muro233) | [Fiverr](https://www.fiverr.com/francescodimuro?up_rollout=true) | [Portfolio](https://www.en.francescodimuro.com)
 
 ## Community 🌐
