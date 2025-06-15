@@ -6,7 +6,7 @@ I currently work as a Back-end Developer using PHP and Laravel @ [BadgeBox S.r.l
 In my spare time, I like to study technologies and develop applications like [REST APIs](https://github.com/FrancescoDiMuro/iiot-rest-apis), [chatbots](https://github.com/FrancescoDiMuro/sample-assistant-bot) and [teach](https://github.com/FrancescoDiMuro/teaching_material) to others the amazing world of programming.
 
 ## Languages and Tools
-<p align="left">
+<p style="border: 1px solid black; display: flex; width: 100vw;padding: 10px; justify-content: space-evenly;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
   <img src="https://github.com/laravel/art/blob/master/laravel-logo.svg" alt="laravel" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
@@ -18,12 +18,6 @@ In my spare time, I like to study technologies and develop applications like [RE
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=francescodimuro&show_icons=true&locale=en&layout=compact" alt="francescodimuro" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=francescodimuro&show_icons=true&locale=en" alt="francescodimuro" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=francescodimuro&" alt="francescodimuro" /></p>
 
 ## My social media ✉️
 [LinkedIn](https://www.linkedin.com/in/francesco-di-muro/) | [Datapizza](https://jobs.datapizza.tech/folio/francescodi_muro233) | [Fiverr](https://www.fiverr.com/francescodimuro?up_rollout=true) | [Portfolio](https://www.en.francescodimuro.com)
