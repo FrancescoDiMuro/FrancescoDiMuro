@@ -2,8 +2,8 @@
 I'm Francesco Di Muro, I'm 29 years old and I'm a software developer, motorcycles lover and drummer.
 
 ## What do I do for living 💻
-I currently work as a Back-end Developer using PHP and Laravel @ [BadgeBox S.r.l.](https://www.badgebox.com/en/index.html).<br>
-In my spare time, I like to study technologies and develop applications like [REST APIs](https://github.com/FrancescoDiMuro/iiot-rest-apis), [chatbots](https://github.com/FrancescoDiMuro/sample-assistant-bot) and [teach](https://github.com/FrancescoDiMuro/teaching_material) to others the amazing world of programming.
+I currently work as a Back-end Developer using mainly PHP and Laravel @ [BadgeBox S.r.l.](https://www.badgebox.com/en/index.html), and recently using Nest.js with TypeScript.<br>
+In my spare time, I like to study technologies and shape my ideas like [REST APIs](https://github.com/FrancescoDiMuro/iiot-rest-apis), [chatbots](https://github.com/FrancescoDiMuro/sample-assistant-bot), and [share](https://devm.io/php/how-laravel-helps-modernize-legacy-applications) my knowledge with others.
 
 ## My skills
 ### Programming languages
@@ -24,7 +24,7 @@ In my spare time, I like to study technologies and develop applications like [RE
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="laravel" width="40" height="40"/>
   &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="expressjs" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" alt="nestjs" width="40" height="40"/>
   &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/>
   &nbsp;
@@ -59,6 +59,8 @@ In my spare time, I like to study technologies and develop applications like [RE
 
 ## My social media ✉️
 <a href="https://www.linkedin.com/in/francesco-di-muro/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="azuredevops" width="40" height="40"/></a>
+&nbsp;
+<a href="https://www.instagram.com/_francesco_di_muro_/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="instagram" width="40" height="40"/></a>
 
 ## Community 🌐
 I am a member (ex-admin) of my birth-place tech community [LatinaInTech](https://www.latinaintech.org/en).
