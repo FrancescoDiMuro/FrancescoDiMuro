@@ -1,11 +1,11 @@
 ## Who am I 🙋
 I'm Francesco Di Muro, I'm 29 years old and I'm a software developer, motorcycles lover and drummer.
 
-## What do I do for living 💻
+## What do I do for a living 💻
 I currently work as a Back-end Developer using mainly PHP and Laravel @ [BadgeBox S.r.l.](https://www.badgebox.com/en/index.html), and recently using Nest.js with TypeScript.<br>
 In my spare time, I like to study technologies and shape my ideas like [REST APIs](https://github.com/FrancescoDiMuro/iiot-rest-apis), [chatbots](https://github.com/FrancescoDiMuro/sample-assistant-bot), and [share](https://devm.io/php/how-laravel-helps-modernize-legacy-applications) my knowledge with others.
 
-## My skills
+## My hard skills
 ### Programming languages
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
@@ -56,6 +56,16 @@ In my spare time, I like to study technologies and shape my ideas like [REST API
   &nbsp;
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="postman" width="40" height="40"/>
 </p>
+
+## My soft skills
+- Team collaboration: enjoying and actively engaging in teamwork, even with a mostly independent career background.
+- Communication: openly sharing ideas, concerns, and thoughts with others.
+- Transparency: keeping team members informed and aligned.
+- Mentorship mindset: ensuring others understand the “why” behind tasks rather than just doing them.
+- Goal orientation: consistently focusing on the project’s objectives.
+- Empathy: considering the perspective and understanding of team members.
+- Proactive engagement: initiating discussions and feedback loops to improve the project.
+- Constructive feedback: sharing concerns in a way that aims to improve outcomes.
 
 ## My social media ✉️
 <a href="https://www.linkedin.com/in/francesco-di-muro/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="azuredevops" width="40" height="40"/></a>
