@@ -18,6 +18,8 @@ In my spare time, I like to study technologies and shape my ideas like [REST API
   &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualbasic/visualbasic-original.svg" alt="visual-basic" width="40" height="40"/>
   &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/solidity/solidity-plain.svg" alt="solidity" width="40" height="40"/>
+  &nbsp;
 </p>
 
 ### Frameworks and libraries
@@ -48,13 +50,12 @@ In my spare time, I like to study technologies and shape my ideas like [REST API
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="node-js" width="40" height="40"/>
   &nbsp;
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
   &nbsp;
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
   &nbsp;
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azuredevops/azuredevops-original.svg" alt="azuredevops" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azuredevops/azuredevops-original.svg" alt="azuredevops" width="40" height="40"/>
   &nbsp;
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="postman" width="40" height="40"/>
 </p>
 
 ## My soft skills
@@ -74,6 +75,9 @@ In my spare time, I like to study technologies and shape my ideas like [REST API
 
 ## Community 🌐
 I am a member (ex-admin) of my birth-place tech community [LatinaInTech](https://www.latinaintech.org/en).
+
+## Publications 📝
+[2025 - devm.io - How Laravel Helps Modernize Legacy Applications](https://devm.io/php/how-laravel-helps-modernize-legacy-applications)
 
 <!---
 FrancescoDiMuro/FrancescoDiMuro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
