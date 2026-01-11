@@ -78,6 +78,7 @@ I am a member (ex-admin) of my birth-place tech community [LatinaInTech](https:/
 
 ## Publications 📝
 [2025 - devm.io - How Laravel Helps Modernize Legacy Applications](https://devm.io/php/how-laravel-helps-modernize-legacy-applications)
+[2025 - devm.io - Laravel vs Nest.js: Choosing the Right Framework for your API](https://devm.io/php/laravel-vs-nestjs-choosing-the-right-framework-for-your-api)
 
 <!---
 FrancescoDiMuro/FrancescoDiMuro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
