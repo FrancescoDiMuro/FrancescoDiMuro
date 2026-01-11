@@ -77,7 +77,7 @@ In my spare time, I like to study technologies and shape my ideas like [REST API
 I am a member (ex-admin) of my birth-place tech community [LatinaInTech](https://www.latinaintech.org/en).
 
 ## Publications 📝
-[2025 - devm.io - How Laravel Helps Modernize Legacy Applications](https://devm.io/php/how-laravel-helps-modernize-legacy-applications)
+[2025 - devm.io - How Laravel Helps Modernize Legacy Applications](https://devm.io/php/how-laravel-helps-modernize-legacy-applications)<br>
 [2025 - devm.io - Laravel vs Nest.js: Choosing the Right Framework for your API](https://devm.io/php/laravel-vs-nestjs-choosing-the-right-framework-for-your-api)
 
 <!---
