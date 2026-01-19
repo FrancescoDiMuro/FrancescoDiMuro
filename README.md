@@ -1,5 +1,5 @@
 ## Who am I 🙋
-I'm Francesco Di Muro, I'm 29 years old and I'm a software developer, motorcycles lover and drummer.
+I'm Francesco Di Muro, I'm 30 years old and I'm a software developer, motorcycles lover and drummer.
 
 ## What do I do for a living 💻
 I currently work as a Back-end Developer using mainly PHP and Laravel @ [BadgeBox S.r.l.](https://www.badgebox.com/en/index.html), and recently using Nest.js with TypeScript.<br>
