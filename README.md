@@ -3,7 +3,7 @@ I'm Francesco Di Muro, I'm 30 years old and I'm a software developer, motorcycle
 
 ## What do I do for a living 💻
 I currently work as a Back-end Developer using mainly PHP and Laravel @ [BadgeBox S.r.l.](https://www.badgebox.com/en/index.html), and recently using Nest.js with TypeScript.<br>
-In my spare time, I like to study technologies and shape my ideas like [REST APIs](https://github.com/FrancescoDiMuro/iiot-rest-apis), [chatbots](https://github.com/FrancescoDiMuro/sample-assistant-bot), and [share](#publications) my knowledge with others.
+In my spare time, I like to study technologies and shape my ideas like [REST APIs](https://github.com/FrancescoDiMuro/iiot-rest-apis), [chatbots](https://github.com/FrancescoDiMuro/sample-assistant-bot), and [share](#publications-) my knowledge with others.
 
 ## My hard skills
 ### Programming languages
